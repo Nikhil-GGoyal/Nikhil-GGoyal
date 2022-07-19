@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nikhil Goyal. Currently in 1st Year [CS]
-- 👀 I'm interested in learning  about Web Development and Cloud Development.I want to develop real life web applications and mobile apps .
+- 👋 Hi, I’m @Nikhil Goyal. Currently in 2nd Year [CS]
+- 👀 I'm interested in learning about Web Development and its related technologies .I want to develop real time web applications and mobile apps .
 - 🌱 I’m currently learning Web Development.
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 You can contact me on :
