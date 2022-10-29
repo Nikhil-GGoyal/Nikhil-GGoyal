@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhil Goyal. Currently in 2nd Year [CS]
+- 👋 Hi, I’m @Nikhil Goyal. Currently in 3rd Year [BCA]
 - 👀 I'm interested in learning about Web Development and its related technologies .I want to develop real time web applications and mobile apps .
 - 🌱 I’m currently learning Web Development.
 <!--- - 💞️ I’m looking to collaborate on ...--->
